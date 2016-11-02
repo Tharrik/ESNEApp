@@ -1,0 +1,66 @@
+Para trabajar con github primero tenemos que crear una cuenta en github.
+
+	https://github.com
+
+Boton Sign up verde arriba a la derecha.
+
+Step 1: Set up personal account
+
+	Elegimos un Username, recordad que es para trabajar, asi que que sea medianamente serio.
+
+	Ponemos un Email Adress
+
+	Elegimos una contraseña: Al menos 7 caracteres, una minúscula y un número.
+
+	Le damos a create account
+
+Step 2: Choose your plan
+
+	Elegimos Unlimited public repositories for free.
+
+	Le damos a continue.
+
+Step 3: Tailor your experience
+
+	Le damos abajo a Skip this step y ya tenemos una cuenta.
+
+
+Ahora toca validarla. Al correo que hayais puesto os llegará un mensaje para que valideis la cuenta (si no aparece mirad en el SPAM)
+
+Validais la cuenta y ya estais listos para trabajar.
+
+Ahora descargamos la herramienta GitHub Desktop.
+
+	https://desktop.github.com/
+
+Descargamos la aplicacion y la instalamos en nuestro SO. Es una aplicacion muy ligera, asi que se puede instalar rapidamente en cualquier PC.
+
+Nos pedirá nuestra cuenta y contraseña, asi que hacemos login y le damos continue a todo.
+
+Si es la primera vez que abris github os aparecera un repositorio tutorial, si quereis hacerlo no está de más.
+
+Para añadir al local el repositorio del proyecto, haced click en el simbolo + de arriba a la izq, dadle a clone y elegid nuestro repo,
+que se llama ESNEApp. Si todavia no estais como colaboradores en el repo, decidmelo (Pablo), para que os agregue.
+
+Al clonar el repo os pedirá que indiqueis una carpeta para descargarlo ahi. Una vez elegida, será ahi donde trabajareis.
+
+Mientras trabajais os podeis olvidar de github, puesto que este trabaja solo mientras trabajais.
+
+Cuando hayais terminado de trabajar id a github desktop y vereis que salen # numero de cambios y debajo dos cajas de texto.
+
+	Summary: OBLIGATORIO rellenar aqui un resumen corto de los cambios.
+
+	Description: OPCIONAL aqui podeis extenderos más acerca de los cambios.
+
+Luego le dais al boton de commit to [master]. De esta manera los cambios quedarán registrados.
+
+Para subir los cambios al servidor dadle al boton Sync de arriba a la derecha y esperad a que termine de sincronizarse.
+
+
+NOTA PARA LOS PROGRAMADORES:
+
+	Nosotros vamos a trabajar con branching, asi que normalmente para hacer un commit sobre el master, haremos un pull de vuestras ramas.
+
+NOTA PARA TODOS:
+
+	Si teneis alguna duda, preguntad. A los que os cueste más os puedo enseñar en persona.
